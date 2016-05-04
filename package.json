@@ -1,0 +1,12 @@
+{
+  "name": "amqp-helper",
+  "version": "0.1.1",
+	"homepage": "https://github.com/gdbate/amqp-helper",
+  "private": true,
+  "author": "Greg Bate <gdbate@gmail.com> (https://github.com/gdbate)",
+  "description": "",
+	"license": "GNU",
+  "dependencies": {
+    "amqplib": "~0.4.1",
+  }
+}
